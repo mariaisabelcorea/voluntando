@@ -1,0 +1,440 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:300,400,600,800');
+
+	
+body{
+	font-family:'Arvo', serif;
+	font-size: 16px;
+	color: #000000;
+
+}
+
+
+
+header{
+	background-color: #fff;
+	padding-right: 50px;
+	color: #4A4646
+	
+
+}
+
+
+#navbar {
+	background-color: #fff;
+	align-content: center;
+	
+}
+
+
+
+#divImg{
+	background: #000000;
+}
+#sloganBarra{
+	margin-left: 500px;
+	color: #FFFFFF;
+	font-family:"Gill Sans";
+	font-size: 12px
+	
+	
+}
+ul, ol {
+	list-style:none;
+}
+
+.nav-item{
+	color: #474747;
+}
+
+#sec-frase{
+	background-image: url(../img/fondo-frase-01.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 100px 0;
+	height: 600px;
+}
+.nav > li {
+	float:left;
+}
+
+
+
+
+#sec-mision h1{
+	color: #A0BF38;
+    font-family:"Lucinda Sans";
+	font-size: 30px;
+    padding-top: 100px;
+	
+}
+
+#sec-mision h2{
+	font-family:"Lucinda Sans";
+	font-size: 17px;
+	padding-top: 30px;
+}
+
+#sec-mision h3{
+	padding-top: 100px
+}
+
+#sec-frase h1{
+	text-align: center;
+	font-family: "Lucinda sans";
+	padding-top: 30px;
+	color: #000000;
+	
+}
+
+#sec-frase h2{
+	text-align: center;
+	margin-top: 20px;
+	font-family:"Lucinda sans";
+	color:#EA850C
+		
+}
+
+
+
+
+
+#sec-merch h6{
+	text-align: center;
+}
+
+#sec-merch p{
+	text-align: center;
+}
+
+
+#sec-content h1{
+	text-align: center;
+	
+}
+
+#sec-content h4{
+	text-align: center;
+	color:#9F9F9F
+}
+
+#sec-departamentos{
+	align-content: center;
+}
+
+#sec-mapa{
+	width: 100%;
+	min-height: 300px;
+}
+
+#sec-quienes h2{
+	text-align: center;
+	font-family: "Gill Sans";
+	padding-bottom: 100px;
+	font-size: 50px;
+
+}
+#sec-hacemos h1{
+	text-align: left;
+	font-family: "Gill Sans";
+	padding-top: 10px;
+	font-size: 40px;
+}
+#sec-hacemos h2{
+	text-align: left;
+	font-family:"Hoefler Text";
+	padding-top: 10px;
+	font-size: 20px;
+}
+#sec-hacemos{
+	padding-top: 100px;
+}
+footer{
+	background-color: #252525;
+	color: #777;
+	padding: 45px 0;
+	text-align: center;
+}
+
+footer h3 {
+	color: #FFF;
+	font-weight: 700;
+	font-size: 26px;
+	
+}
+.barra{
+	background-color: #787878;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1px;
+	padding-bottom: 10px;
+}
+.titulo{
+	font-size: 50px;
+	font-weight: 600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+#sec-obras {
+    background-image: url(../img/rainforest-forest-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	margin-bottom: 100px;
+}
+	
+
+
+#sec-obras .barra{
+	background-color: #c37533;
+	margin-top: 10px;
+}
+
+#sec-obras .titulo{
+	color: #fff;
+	text-align: center;
+}
+
+.cuadro-blanco{
+	background-color: #FFFFFF;
+	padding: 30px 20px;
+	text-align: center;
+}
+
+.cuadro-blanco h3{
+	color: #FFFFFF;
+	font-size: 24px;
+	font-weight: 600;
+	margin-top: 25px;
+}
+
+
+footer h3 span {
+	color: #a0bf38;
+
+}
+
+.redes a {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	border: 2px solid #FFF;
+	display: block;
+	border-radius: 100%;
+	color: #FFF;
+	text-decoration: none;
+	
+}
+
+.redes {
+	margin: 45px 0; 
+	
+}
+.redes li{
+	display: inline-block;
+	transition: all ease 0.3s;
+}
+
+
+.redes a:hover {
+	background-color: #FFF;
+	color: #252525;
+	transition: all ease 0.3s;
+}
+
+footer p a:hover{
+	
+	color: #f54f15;
+} 
+
+#sec-adopt {
+background-image:url(../img/backadpot.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+margin-bottom: 100px;
+	
+}
+
+#sec-adopt h1{
+    font-size: 60px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#sec-adopcion{
+	background-image: url(../img/peacock.jpg)
+}
+#map{
+	width: 100%;
+	min-height: 300px;
+}
+
+.ocultar {
+	display: none;
+}
+
+
+#sec-testimonials {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+}
+	#sec-testimonials h4{
+	padding-top: 20px;
+	color: #c37533;
+	
+	
+}
+
+	#sec-testimonials h2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #c37533;
+	
+}
+
+
+.btn-naranja{
+	background-color: #919191;
+	color: #fff;
+	border-radius: 0;
+	border: 0;
+	text-transform: uppercase;
+	
+	font-weight: 600;
+	margin-top: 40px;
+	
+}
+.btn-naranja:hover{
+	background-color: #252525;
+	color: #FFFFFF;
+}
+
+#sec-slides{
+	text-align: center;
+}
+
+.btn-slide{
+	position: absolute;
+}
+
+.car-vt{
+	padding-bottom: 236px;
+	padding-top: 150px;}
+	
+.vt{
+	text-transform: uppercase;
+	font-size: 100px;
+	padding-top: 100px;
+	
+}
+
+.vt-p{
+	font-kerning: 60px;
+}
+
+#sec-slides{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+#sec-quienes {
+	background-image: url(../img/voluntariado.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+	}
+
+
+#sec-quienes h1{
+	text-align: center;
+	font-family: 'Gill Sans';
+	padding-top: 200px;
+	color: #fff;
+  font-size: 100px;
+	font-weight: 200;
+	
+}
+
+#sec-org{
+	padding-top: 150px;
+	padding-bottom: 200px;
+	background-color: #AAAAAA;
+	color: #fff;
+}
+
+#sec-org h2{
+	padding-bottom: 80px;
+	
+}
+#sec-org img{
+	padding-bottom: 50px;
+	
+}
+
+#sec-org h4{
+	padding-bottom: 30px;
+}
+#sec-org p {
+	
+}
+
+.pasos {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+#sec-pasos span{
+	font-size: 50px;
+	color: #FC8A32;
+}
+#sec-pasos{
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+#sec-pasos h2{
+	font-size: 16px;
+	padding-top: 20px;
+}
+#sec-pasos h1{
+	color: #848484;
+	padding-top: 150px;
+}
+.btn-form{
+	background-color: #919191;
+	color: #fff;
+	border-radius: 0;
+	border: 0;
+	text-transform: uppercase;
+	
+	font-weight: 600;
+	
+	
+}
+.btn-form:hover{
+	background-color: #252525;
+	color: #FFFFFF;
+}
+#sec-entrar{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #464646;
+}
+#sec-form{
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+
+#sec-eventos{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
