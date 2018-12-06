@@ -438,3 +438,90 @@ margin-bottom: 100px;
 	padding-top: 150px;
 	padding-bottom: 100px;
 }
+
+#sec-entrar h4{
+color: #fff;
+font-size: 20px;
+
+}
+
+#sec-entrar span{
+color: #0D1FE4;
+font-size: 15px;
+text-align: right;
+	
+}
+
+
+.art{
+	text-align: center !important;
+	padding-top: 100px;
+}
+
+#sec-prof h1{
+	padding-top: 50px;
+	
+}
+
+#sec-prof span{
+color: #0D1FE4;
+font-size: 15px;
+text-align: center !important;
+}
+
+#sec-prof p{
+	text-align: center !important;
+	padding-bottom: 100px;
+}
+#sec-bad{
+	padding-top: 100px;
+}
+
+#sec-bad h4{
+	padding-top: 50px;
+	padding-bottom: 100px;
+	color: #595959;
+}
+
+#sec-bad img{
+	padding-top: 25px;
+	padding-bottom: 100px;
+}
+#sec-vol{
+	padding-top: 150px;
+	padding-bottom: 200px;
+	background-color: #AAAAAA;
+	color: #fff;
+}
+#sec-vol h3{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	
+}
+#sec-vol i{
+	padding-right: 20px;
+	color: #F5C432;
+	font-size: 50px;
+}
+#sec-vol h1{
+	font-size: 50px;
+}
+.btn-naranjaa{
+	background-color: #fff;
+	color: #656565;
+	border-radius: 0;
+	border: 0;
+	text-transform: uppercase;
+	
+	font-weight: 600;
+	margin-top: 200px;
+	
+	
+}
+.btn-naranjaa:hover{
+	background-color: #252525;
+	color: #FFF;}
+#sec-bad h2{
+	color: #727272;
+	padding-bottom: 20px;
+}
